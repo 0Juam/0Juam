@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Vitor 👋
 
-- 🌱 Estudante: Técnico em Desenvolvimento de Sistemas
+- 🌱 Estudando: Técnico em Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/0Juam">
